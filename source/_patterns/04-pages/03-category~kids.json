@@ -1,0 +1,176 @@
+{
+	"pageTitle" : "Mens Fashion",
+	"stackedBlockSection" : {
+		"styleModifier" : "l-grid l-grid--3up",
+		"stackedBlockList": [
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/woman-in-yellow-hides-face.jpg",
+					"alt": "red mountains"
+				},
+				"headline" : {
+					"short" : "Women's Striped Sweater"
+				},
+				"excerpt" : {
+					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
+				},
+				"label" : "$90"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-mens-outerwear.jpg",
+					"alt": "road with trees"
+				},
+				"headline" : {
+					"short" : "Men's Gray Jacket"
+				},
+				"excerpt" : {
+					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
+				},
+				"label" : "$250"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-boys-fashion.jpg",
+					"alt": "mountain and lake"
+				},
+				"headline" : {
+					"short" : "Boys Jeans"
+				},
+				"excerpt" : {
+					"medium" : "Denim jeans for kids. Comes in khaki(shown) or blue"
+				},
+				"label" : "$80"
+
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/woman-in-yellow-hides-face.jpg",
+					"alt": "red mountains"
+				},
+				"headline" : {
+					"short" : "Women's Striped Sweater"
+				},
+				"excerpt" : {
+					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
+				},
+				"label" : "$90"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-mens-outerwear.jpg",
+					"alt": "road with trees"
+				},
+				"headline" : {
+					"short" : "Men's Gray Jacket"
+				},
+				"excerpt" : {
+					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
+				},
+				"label" : "$250"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-boys-fashion.jpg",
+					"alt": "mountain and lake"
+				},
+				"headline" : {
+					"short" : "Boys Jeans"
+				},
+				"excerpt" : {
+					"medium" : "Denim jeans for kids. Comes in khaki(shown) or blue"
+				},
+				"label" : "$80"
+
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/woman-in-yellow-hides-face.jpg",
+					"alt": "red mountains"
+				},
+				"headline" : {
+					"short" : "Women's Striped Sweater"
+				},
+				"excerpt" : {
+					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
+				},
+				"label" : "$90"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-mens-outerwear.jpg",
+					"alt": "road with trees"
+				},
+				"headline" : {
+					"short" : "Men's Gray Jacket"
+				},
+				"excerpt" : {
+					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
+				},
+				"label" : "$250"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-boys-fashion.jpg",
+					"alt": "mountain and lake"
+				},
+				"headline" : {
+					"short" : "Boys Jeans"
+				},
+				"excerpt" : {
+					"medium" : "Denim jeans for kids. Comes in khaki(shown) or blue"
+				},
+				"label" : "$80"
+
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/woman-in-yellow-hides-face.jpg",
+					"alt": "red mountains"
+				},
+				"headline" : {
+					"short" : "Women's Striped Sweater"
+				},
+				"excerpt" : {
+					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
+				},
+				"label" : "$90"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-mens-outerwear.jpg",
+					"alt": "road with trees"
+				},
+				"headline" : {
+					"short" : "Men's Gray Jacket"
+				},
+				"excerpt" : {
+					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
+				},
+				"label" : "$250"
+			}
+		]
+	}
+}

@@ -3,5 +3,19 @@
         {},
         {},
         {}
+    ],
+    "paginationList" : [
+        {
+            "number" : "Prev"
+        },
+        {
+            "number" : "1"
+        },
+        {
+            "number" : "2"
+        },
+        {
+            "number" : "Next"
+        }
     ]
 }

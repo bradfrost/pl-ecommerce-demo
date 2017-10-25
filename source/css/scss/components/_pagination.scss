@@ -1,0 +1,21 @@
+/**
+ * Pagination
+ */
+.c-pagination {
+	display: flex;
+	flex-wrap: wrap;
+	overflow: hidden;
+	margin-bottom: 1rem;
+}
+
+.c-pagination__item {
+	border-right: 1px solid $color-gray-15;
+
+	&:last-child {
+		border: 0;
+	}
+}
+
+.c-pagination__link {
+	padding: $pad;
+}
