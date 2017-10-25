@@ -1,0 +1,10 @@
+<a href="{{ url }}" class="c-tile {{ styleModifier }}">
+	{{# progress }}
+		{{> atoms-progress }}
+	{{/ progress }}
+	<span class="c-tile__value">{{ number }}</span>
+	<h2 class="c-tile__label">{{ headline.short }}</h2>
+</a><!-- end c-tile -->
+{{# overlay }}
+	{{> molecules-overlay }}
+{{/ overlay}}

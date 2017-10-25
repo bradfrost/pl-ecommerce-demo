@@ -1,0 +1,107 @@
+{
+	"title" : "Home Page",
+	"bodyClass": "home",
+	"emergency" : false,
+	"hero" : {
+	    "imgHero" : {
+	  	  "src": "../../images/smiling-man-woman-pug.jpg",
+	      "alt": "Forest"
+	    }
+	},
+    "headline" : {
+        "medium" : "Check out the Winter Collection"
+    },
+	"toutSection" : {
+		"styleModifier" : "l-grid--3up",
+		"toutList" : [
+			{
+				"url": "link.pages-blog-detail",
+				"headline": {
+					"short" : "Women's fashion"
+				},
+				"imgLandscape" : {
+					  "src": "../../images/woman-outside-brownstone.jpg",
+				    "alt": "Woman in sweater"
+			}
+			},
+			{
+				"url": "link.pages-login",
+				"headline": {
+					"short" : "Men's fashion"
+				},
+				"imgLandscape" : {
+					  "src": "../../images/smiling-man-in-formalwear.jpg",
+				    "alt": "Man in formalwear"
+				}
+			},
+			{
+				"url" : "link.pages-about",
+				"headline": {
+					"short" : "Kid's Fashion"
+				},
+				"imgLandscape" : {
+					  "src": "../../images/father-daughter-fashion.jpg",
+				    "alt": "Child with father"
+				}
+			}
+	    ]
+	},
+	"inset-blocks" : [
+		{
+			"headline" : "This is the headline for the inset block"
+		}
+	],
+	"latestPosts" : {
+		"styleModifier" : "l-grid l-grid--3up",
+		"sectionTitle": "Featured Items",
+		"stackedBlockList": [
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-blog-detail",
+				"imgLandscape" : {
+					"src": "../../../images/woman-in-yellow-hides-face.jpg",
+					"alt": "red mountains"
+				},
+				"headline" : {
+					"short" : "Women's Striped Sweater"
+				},
+				"excerpt" : {
+					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
+				},
+				"label" : "$90"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-blog-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-mens-outerwear.jpg",
+					"alt": "road with trees"
+				},
+				"headline" : {
+					"short" : "Men's Gray Jacket"
+				},
+				"excerpt" : {
+					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
+				},
+				"label" : "$250"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-blog-detail",
+				"imgLandscape" : {
+					"src": "../../../images/casual-boys-fashion.jpg",
+					"alt": "mountain and lake"
+				},
+				"headline" : {
+					"short" : "Boys Jeans"
+				},
+				"excerpt" : {
+					"medium" : "Denim jeans for kids. Comes in khaki(shown) or blue"
+				},
+				"label" : "$80"
+
+			}
+		],
+		"btnText" : "View All Posts"
+	}
+}
