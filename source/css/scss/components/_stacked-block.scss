@@ -6,12 +6,17 @@
  * of each other
  */
  .c-stacked-block {
-	 display: block;
+	 display: flex;
+     flex-direction: column;
 	 transition: transform 0.2s ease;
 
 	 &:hover, &:focus {
 		 transform: scale(1.05);
 	 }
+ }
+
+ .c-stacked-block__body {
+     flex: 1;
  }
 
 .c-stacked-block__title {

@@ -70,6 +70,7 @@
  * Grid item
  */
 .l-grid__item {
+	display: flex;
 	padding: $pad-half;
 
 	/**

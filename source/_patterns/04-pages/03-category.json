@@ -144,9 +144,11 @@
 	},
 	"paginationList" : [
         {
+			"itemModifier" : "is-disabled",
             "number" : "Prev"
         },
         {
+			"itemModifier" : "is-active",
             "number" : "1"
         },
         {

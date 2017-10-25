@@ -38,16 +38,18 @@
 	},
 	"paginationList" : [
         {
+			"url" : "link.pages-category-page-2",
             "number" : "Prev"
         },
         {
             "number" : "1"
         },
         {
-			"url" : "link.pages-category-page-2",
+			"itemModifier" : "is-active",
             "number" : "2"
         },
         {
+			"itemModifier" : "is-disabled",
             "number" : "Next"
         }
     ]
