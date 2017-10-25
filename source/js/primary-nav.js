@@ -20,17 +20,18 @@
 	if (document.querySelector('.js-nav-target')) {
 		var navToggle = document.querySelector('.js-nav-trigger');/* 1 */
 		var navTarget = document.querySelector('.js-nav-target'); /* 2 */
+		var navHeader = navTarget.parentNode.parentNode.parentNode;
 
 		navToggle.addEventListener('click',function(event){ /* 2 */
 			event.preventDefault();
 
 			if (navTarget.classList.contains('is-active')) { /* 3 */
 				navTarget.classList.remove('is-active');
-				navTarget.parentNode.parentNode.classList.remove('is-active');
+				navHeader.classList.remove('is-active');
 			}
 			else { /* 4 */
 				navTarget.classList.add('is-active');
-				navTarget.parentNode.parentNode.classList.add('is-active');
+				navHeader.classList.add('is-active');
 			}
 		});
 	}

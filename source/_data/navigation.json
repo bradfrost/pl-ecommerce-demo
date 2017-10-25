@@ -1,0 +1,34 @@
+{
+    "primaryNav" : {
+        "navItems" : [
+            {
+                "label" : "Men"
+            },
+            {
+
+                "label" : "Women"
+            },
+            {
+                "label" : "Kids"
+            },
+            {
+                "label" : "Checkout"
+            }
+        ]
+    },
+    "footerNav" : [
+        {
+            "label" : "Men"
+        },
+        {
+
+            "label" : "Women"
+        },
+        {
+            "label" : "Kids"
+        },
+        {
+            "label" : "Checkout"
+        }
+    ]
+}

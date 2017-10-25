@@ -2,22 +2,5 @@
     "navToggle" : {
         "styleModifier" : "c-header__nav-btn js-nav-trigger",
         "buttonText" : "Menu"
-    },
-    "primaryNav" : {
-        "navItems" : [
-            {
-                "label" : "Men"
-            },
-            {
-
-                "label" : "Women"
-            },
-            {
-                "label" : "Kids"
-            },
-            {
-                "label" : "Checkout"
-            }
-        ]
     }
 }

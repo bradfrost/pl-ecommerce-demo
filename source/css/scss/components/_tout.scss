@@ -7,8 +7,7 @@
  * 1) The tout block contains an image and headline overlayed over the image.
  */
 .c-tout {
-    display: inline-block;
-	margin-bottom: $space-half;
+    display: block;
 	position: relative;
     overflow: hidden;
 }

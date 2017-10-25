@@ -15,7 +15,7 @@
 		"styleModifier" : "l-grid--3up",
 		"toutList" : [
 			{
-				"url": "link.pages-blog-detail",
+				"url": "link.pages-category",
 				"headline": {
 					"short" : "Women's fashion"
 				},
@@ -25,7 +25,7 @@
 			}
 			},
 			{
-				"url": "link.pages-login",
+				"url": "link.pages-category",
 				"headline": {
 					"short" : "Men's fashion"
 				},
@@ -35,7 +35,7 @@
 				}
 			},
 			{
-				"url" : "link.pages-about",
+				"url": "link.pages-category",
 				"headline": {
 					"short" : "Kid's Fashion"
 				},
@@ -57,7 +57,7 @@
 		"stackedBlockList": [
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-blog-detail",
+				"url" : "link.pages-category-detail",
 				"imgLandscape" : {
 					"src": "../../../images/woman-in-yellow-hides-face.jpg",
 					"alt": "red mountains"
@@ -72,7 +72,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-blog-detail",
+				"url" : "link.pages-category-detail",
 				"imgLandscape" : {
 					"src": "../../../images/casual-mens-outerwear.jpg",
 					"alt": "road with trees"
@@ -87,7 +87,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-blog-detail",
+				"url" : "link.pages-category-detail",
 				"imgLandscape" : {
 					"src": "../../../images/casual-boys-fashion.jpg",
 					"alt": "mountain and lake"
