@@ -17,5 +17,9 @@
         {
             "number" : "Next"
         }
+    ],
+    "stripeList" : [
+        {},
+        {}
     ]
 }

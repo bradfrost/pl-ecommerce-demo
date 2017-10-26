@@ -1,7 +1,16 @@
-<select id="select">
-    <optgroup label="Select">
-        <option>Option One</option>
-        <option>Option Two</option>
-        <option>Option Three</option>
-    </optgroup>
+<select class="c-select {{ styleModifier }}" id="{{ id }}" placeholder="{{ placeholder }}" {{# multiple }}multiple{{/ multiple }} {{# disabled }}disabled{{/ disabled }}>
+    {{# selectOptions }}
+    <option value="{{ value }}">{{ option }}</option>
+    {{/ selectOptions }}
+
+    {{# optionGroups }}
+        <optgroup label="{{ optGroupLabel }}">
+
+            {{# selectOptions }}
+            <option value="{{ value }}">{{ option }}</option>
+            {{/ selectOptions }}
+
+        </optgroup>
+    {{/ optionGroups }}
+
 </select>

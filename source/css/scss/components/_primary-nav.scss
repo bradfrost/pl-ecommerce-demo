@@ -40,6 +40,11 @@
 	}
 }
 
+.c-primary-nav__item--highlight {
+	background: $color-brand-gray;
+	color: $color-white;
+}
+
 /**
  * Nav Links
  */
@@ -50,4 +55,14 @@
 	font-family: $font-secondary;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+
+	.c-primary-nav__item--highlight & {
+		background: $color-brand-gray;
+		color: $color-white;
+
+		&:hover, &:focus {
+			background: $color-brand-blue;
+		}
+
+	}
 }

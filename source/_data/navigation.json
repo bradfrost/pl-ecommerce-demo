@@ -14,8 +14,9 @@
                 "label" : "Kids"
             },
             {
-                "url" : "link.pages-category",
-                "label" : "Checkout"
+                "styleModifier" : "c-primary-nav__item--highlight",
+                "url" : "link.pages-cart",
+                "label" : "Cart"
             }
         ]
     },

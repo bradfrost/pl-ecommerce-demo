@@ -6,8 +6,8 @@
  * Footer Nav
  */
 .c-footer-nav {
-		display: block;
-		margin-right: 1rem;
+	display: block;
+	margin-right: 1rem;
 }
 
 /**
@@ -16,10 +16,10 @@
 .c-footer-nav__list {
 	display: flex;
 	flex-direction: column;
-	
+
 	@media all and (min-width: $bp-small) {
 		flex-direction: row;
-	}	
+	}
 }
 
 /**
@@ -27,7 +27,7 @@
  */
 .c-footer-nav__item {
 	width: 50%;
-	
+
 	@media all and (min-width: $bp-small) {
 		width: inherit;
 	}
@@ -37,11 +37,14 @@
  * Footer Nav Links
  */
 .c-footer-nav__link {
+	font-family: $font-secondary;
 	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 	display: block;
 	padding: 1rem 2rem 1rem 0;
 	color: $color-white;
-	
+
 	&:hover, &:focus {
 		color: $color-gray-35;
 	}
