@@ -7,136 +7,44 @@
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
 				"imgLandscape" : {
-					"src": "../../../images/smiling-man-in-formalwear.jpg",
-					"alt": "red mountains"
+					"src": "../../../images/father-daughter-fashion.jpg",
+					"alt": "daughter and father"
 				},
 				"headline" : {
-					"short" : "Women's Striped Sweater"
+					"short" : "Kid's Leather Jacket"
 				},
 				"excerpt" : {
-					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
+					"medium" : "Your kid will look as hip as you in this 100% real leather jacket"
 				},
-				"label" : "$90"
-			},
-			{
-				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/casual-mens-outerwear.jpg",
-					"alt": "road with trees"
-				},
-				"headline" : {
-					"short" : "Men's Gray Jacket"
-				},
-				"excerpt" : {
-					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
-				},
-				"label" : "$250"
-			},
-			{
-				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-brick-wall.jpg",
-					"alt": "mountain and lake"
-				},
-				"headline" : {
-					"short" : "Boys Jeans"
-				},
-				"excerpt" : {
-					"medium" : "Denim jeans for kids. Comes in khaki(shown) or blue"
-				},
-				"label" : "$80"
-
-			},
-			{
-				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-floral-shirt.jpg",
-					"alt": "red mountains"
-				},
-				"headline" : {
-					"short" : "Women's Striped Sweater"
-				},
-				"excerpt" : {
-					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
-				},
-				"label" : "$90"
-			},
-			{
-				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-stoop.jpg",
-					"alt": "road with trees"
-				},
-				"headline" : {
-					"short" : "Men's Gray Jacket"
-				},
-				"excerpt" : {
-					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
-				},
-				"label" : "$250"
-			},
-			{
-				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-looks-at-woman-in-sunset.jpg",
-					"alt": "mountain and lake"
-				},
-				"headline" : {
-					"short" : "Boys Jeans"
-				},
-				"excerpt" : {
-					"medium" : "Denim jeans for kids. Comes in khaki(shown) or blue"
-				},
-				"label" : "$80"
-
-			},
-			{
-				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-sits-and-laughs.jpg",
-					"alt": "red mountains"
-				},
-				"headline" : {
-					"short" : "Women's Striped Sweater"
-				},
-				"excerpt" : {
-					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
-				},
-				"label" : "$90"
-			},
-			{
-				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-looks-at-woman-in-sunset.jpg",
-					"alt": "road with trees"
-				},
-				"headline" : {
-					"short" : "Men's Gray Jacket"
-				},
-				"excerpt" : {
-					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
-				},
-				"label" : "$250"
+				"label" : "$110"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
 				"imgLandscape" : {
 					"src": "../../../images/casual-boys-fashion.jpg",
-					"alt": "mountain and lake"
+					"alt": "boy sitting on floor"
 				},
 				"headline" : {
 					"short" : "Boys Jeans"
 				},
 				"excerpt" : {
 					"medium" : "Denim jeans for kids. Comes in khaki(shown) or blue"
+				},
+				"label" : "$70"
+			},
+			{
+				"styleModifier" : "",
+				"url" : "link.pages-category-detail",
+				"imgLandscape" : {
+					"src": "../../../images/kid-in-dress.jpg",
+					"alt": "girl in cherry dress"
+				},
+				"headline" : {
+					"short" : "Girl's Cherry Dress"
+				},
+				"excerpt" : {
+					"medium" : "Blue dress with cherry print"
 				},
 				"label" : "$80"
 
@@ -145,32 +53,46 @@
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
 				"imgLandscape" : {
-					"src": "../../../images/woman-in-yellow-hides-face.jpg",
-					"alt": "red mountains"
+					"src": "../../../images/kid-smiling.jpg",
+					"alt": "girl in cat leggings"
 				},
 				"headline" : {
-					"short" : "Women's Striped Sweater"
+					"short" : "Kitty Cat Leggings"
 				},
 				"excerpt" : {
-					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
+					"medium" : "Gray leggings with two friendly cat faces on both knees."
 				},
-				"label" : "$90"
+				"label" : "$50"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
 				"imgLandscape" : {
-					"src": "../../../images/casual-mens-outerwear.jpg",
-					"alt": "road with trees"
+					"src": "../../../images/kid-striped-dress.jpg",
+					"alt": "girl in striped dress"
 				},
 				"headline" : {
-					"short" : "Men's Gray Jacket"
+					"short" : "Striped Dress"
 				},
 				"excerpt" : {
-					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
+					"medium" : "This blue and white dress is perfect for playing outside in the summer"
 				},
-				"label" : "$250"
+				"label" : "$100"
 			}
 		]
-	}
+	},
+	"paginationList" : [
+        {
+			"itemModifier" : "is-disabled",
+            "number" : "Prev"
+        },
+        {
+			"itemModifier" : "is-disabled",
+            "number" : "1"
+        },
+        {
+			"itemModifier" : "is-disabled",
+            "number" : "Next"
+        }
+    ]
 }
