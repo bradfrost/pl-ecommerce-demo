@@ -21,5 +21,8 @@
     "checkoutButton" : true,
     "stackedBlockSection" : {
         "styleModifier" : "l-grid l-grid--3up"
-    }
+    },
+    "selectSection" : true,
+    "priceSection" : true,
+    "addToCart" : true
 }
