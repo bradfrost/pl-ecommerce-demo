@@ -9,5 +9,6 @@
         {
             "option" : "Option 3"
         }
-    ]
+    ],
+    "field" : true
 }
