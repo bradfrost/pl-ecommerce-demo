@@ -10,5 +10,11 @@
             "option" : "Option 3"
         }
     ],
-    "field" : true
+    "field" : true,
+    "fields": [
+        {},
+        {},
+        {}
+    ],
+    "formButton" : true
 }
