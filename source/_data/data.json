@@ -7,35 +7,9 @@
     "key": "value",
     "key2": "use this for variables you want to load globally",
     "title": "Nullizzle shizznit velizzle, hizzle, suscipit own yo', gravida vizzle, arcu.",
-    "img": {
-        "avatar": {
-            "src": "http://placeimg.com/100/100/people",
-            "alt": "Avatar"
-        },
-        "square": {
-            "src": "http://placeimg.com/300/300/nature",
-            "alt": "Square"
-        },
-        "rectangle": {
-            "src": "http://placeimg.com/400/300/tech",
-            "alt": "Rectangle"
-        },
-        "landscape-4x3": {
-            "src": "http://placeimg.com/400/300/tech",
-            "alt": "4x3 Image"
-        },
-        "landscape-16x9": {
-            "src": "http://placeimg.com/640/360/tech",
-            "alt": "16x9 Image"
-        }
-    },
-    "imgLandscape" : {
-        "src": "http://via.placeholder.com/1024x576",
-        "alt": "16x9 Image"
-    },
     "headline": {
         "short": "Lorizzle pimpin' dolizzle sit amet I",
-        "medium": "Rizzle adipiscing elizzle. Nullam sapien velizzle, shit volutpizzle, my"
+        "medium": "Rizzle adipiscing elizzle. Nullam sapien velizzle, volutpizzle, my"
     },
     "excerpt": {
         "short": "Shizz fo shizzle mah nizzle fo rizzle, mah home g-dizzle, gravida vizzle, arcu. Pellentesque crunk tortizzle. Sed erizzle. Black izzle sheezy telliv.",
