@@ -30,12 +30,11 @@
 	margin-left: auto;
 	display: flex;
 	align-items: center;
-	padding-right: 1rem;
 }
 
 .c-header__nav-btn {
 	margin-left: auto;
-	margin-right: 2rem;
+	margin-right: 1rem;
 
 	@media all and (min-width: $bp-large) {
 		display: none;
