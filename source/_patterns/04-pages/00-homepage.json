@@ -3,46 +3,30 @@
 	"bodyClass": "home",
 	"emergency" : false,
 	"hero" : {
-	    "imgHero" : {
-	  	  "src": "../../images/smiling-man-woman-pug.jpg",
-	      "alt": "Forest"
-	    }
+		"imgHeroSrc": "../../images/smiling-man-woman-pug.jpg",
+		"imgHeroAlt": "Forest"
 	},
-    "headline" : {
-        "medium" : "Check out the Winter Collection"
-    },
+    "headline" :  "Check out the Winter Collection",
 	"toutSection" : {
 		"styleModifier" : "l-grid--3up",
 		"toutList" : [
 			{
 				"url": "link.pages-category",
-				"headline": {
-					"short" : "Women's fashion"
-				},
-				"imgLandscape" : {
-					  "src": "../../images/woman-outside-brownstone.jpg",
-				    "alt": "Woman in sweater"
-			}
+				"headline":  "Women's fashion",
+				"imgLandscapeSrc" : "../../images/woman-outside-brownstone.jpg",
+				"imgLandscapeAlt" : "Woman in sweater"
 			},
 			{
 				"url": "link.pages-category",
-				"headline": {
-					"short" : "Men's fashion"
-				},
-				"imgLandscape" : {
-					  "src": "../../images/smiling-man-in-formalwear.jpg",
-				    "alt": "Man in formalwear"
-				}
+				"headline": "Men's fashion",
+				"imgLandscapeSrc" : "../../images/smiling-man-in-formalwear.jpg",
+				"imgLandscapeAlt" : "Man in formalwear"
 			},
 			{
 				"url": "link.pages-category",
-				"headline": {
-					"short" : "Kid's Fashion"
-				},
-				"imgLandscape" : {
-					  "src": "../../images/father-daughter-fashion.jpg",
-				    "alt": "Child with father"
-				}
+				"headline": "Kid's Fashion",
+				"imgLandscapeSrc" : "../../images/father-daughter-fashion.jpg",
+				"imgLandscapeAlt" : "Child with father"
 			}
 	    ]
 	},
@@ -58,46 +42,28 @@
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-in-yellow-hides-face.jpg",
-					"alt": "red mountains"
-				},
-				"headline" : {
-					"short" : "Women's Striped Sweater"
-				},
-				"excerpt" : {
-					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-in-yellow-hides-face.jpg",
+				"imgLandscapeAlt" : "red mountains",
+				"headline" : "Women's Striped Sweater",
+				"excerpt" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months",
 				"label" : "$90"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/casual-mens-outerwear.jpg",
-					"alt": "road with trees"
-				},
-				"headline" : {
-					"short" : "Men's Gray Jacket"
-				},
-				"excerpt" : {
-					"medium" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue"
-				},
+				"imgLandscapeSrc" : "../../../images/casual-mens-outerwear.jpg",
+				"imgLandscapeAlt" : "road with trees",
+				"headline" : "Men's Gray Jacket",
+				"excerpt" : "Down jacket great for days when a winter coat is too heavy. Comes in gray(shown) or blue",
 				"label" : "$250"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/casual-boys-fashion.jpg",
-					"alt": "mountain and lake"
-				},
-				"headline" : {
-					"short" : "Boys Jeans"
-				},
-				"excerpt" : {
-					"medium" : "Denim jeans for kids. Comes in khaki(shown) or blue"
-				},
+				"imgLandscapeSrc" : "../../../images/casual-boys-fashion.jpg",
+				"imgLandscapeAlt" : "mountain and lake",
+				"headline" : "Boys Jeans",
+				"excerpt" : "Denim jeans for kids. Comes in khaki(shown) or blue",
 				"label" : "$80"
 
 			}

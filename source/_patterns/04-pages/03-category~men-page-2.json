@@ -6,47 +6,29 @@
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-watch.jpg",
-					"alt": "mountain and lake"
-				},
-				"headline" : {
-					"short" : "Slim-Fit Dotted Shirt"
-				},
-				"excerpt" : {
-					"medium" : "This slim-fit button-down will fit you well while you stroll around the city"
-				},
+				"imgLandscapeSrc" : "../../../images/man-watch.jpg",
+				"imgLandscapeAlt": "mountain and lake",
+				"headline" : "Slim-Fit Dotted Shirt",
+				"excerpt" : "This slim-fit button-down will fit you well while you stroll around the city",
 				"label" : "$80"
 
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-flannel.jpg",
-					"alt": "red mountains"
-				},
-				"headline" : {
-					"short" : "Classic Flannel"
-				},
-				"excerpt" : {
-					"medium" : "This quintessential flannel is perfect for long winter nights or a couple drinks at the bar"
-				},
+				"imgLandscapeSrc" : "../../../images/man-flannel.jpg",
+				"imgLandscapeAlt" : "red mountains",
+				"headline" : "Classic Flannel",
+				"excerpt" : "This quintessential flannel is perfect for long winter nights or a couple drinks at the bar",
 				"label" : "$80"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/man-after-haircut.jpg",
-					"alt": "red mountains"
-				},
-				"headline" : {
-					"short" : "Casual Jacket"
-				},
-				"excerpt" : {
-					"medium" : "This durable polyester jacket is great for everyday use no matter what time of year"
-				},
+				"imgLandscapeSrc" : "../../../images/man-after-haircut.jpg",
+				"imgLandscapeAlt" : "red mountains",
+				"headline" : "Casual Jacket",
+				"excerpt" : "This durable polyester jacket is great for everyday use no matter what time of year",
 				"label" : "$160"
 			}
 		]

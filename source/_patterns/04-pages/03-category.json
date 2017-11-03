@@ -6,138 +6,84 @@
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-in-yellow-hides-face.jpg",
-					"alt": "woman in sweater"
-				},
-				"headline" : {
-					"short" : "Striped Wool Sweater"
-				},
-				"excerpt" : {
-					"medium" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-in-yellow-hides-face.jpg",
+				"imgLandscapeAlt" : "woman in sweater",
+				"headline" : "Striped Wool Sweater",
+				"excerpt" : "Orange and white sweater made from 100% wool and stylish for those brisk Fall and Winter months",
 				"label" : "$90"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-woods.jpg",
-					"alt": "woman in the woods"
-				},
-				"headline" : {
-					"short" : "Down Jacket"
-				},
-				"excerpt" : {
-					"medium" : "This down jacket will protect you from the snowy weather while accenting your outfit during the winter months"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-woods.jpg",
+				"imgLandscapeAlt" : "woman in the woods",
+				"headline" : "Down Jacket",
+				"excerpt" : "This down jacket will protect you from the snowy weather while accenting your outfit during the winter months",
 				"label" : "$230"
 
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-pinstripe-dress.jpg",
-					"alt": "woman twisting hair"
-				},
-				"headline" : {
-					"short" : "Pinstripe Skirt and Tank Top"
-				},
-				"excerpt" : {
-					"medium" : "This pinstripe skirt and tank top are a great pairing for a friendly get-together"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-pinstripe-dress.jpg",
+				"imgLandscapeAlt" : "woman twisting hair",
+				"headline" :  "Pinstripe Skirt and Tank Top",
+				"excerpt" : "This pinstripe skirt and tank top are a great pairing for a friendly get-together",
 				"label" : "$120"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-painting.jpg",
-					"alt": "woman painting"
-				},
-				"headline" : {
-					"short" : "Plaid Flannel Button-Down Shirt"
-				},
-				"excerpt" : {
-					"medium" : "Lounge around during the cold months in this comfortable plaid flannel shirt"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-painting.jpg",
+				"imgLandscapeAlt" : "woman painting",
+				"headline" :  "Plaid Flannel Button-Down Shirt",
+				"excerpt" : "Lounge around during the cold months in this comfortable plaid flannel shirt",
 				"label" : "$70"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-black-shirt.jpg",
-					"alt": "woman in office"
-				},
-				"headline" : {
-					"short" : "Black Long-sleeved Shirt"
-				},
-				"excerpt" : {
-					"medium" : "Great during the colder months, this black long-sleeved shirt is simple but a solid choice in a casual setting"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-black-shirt.jpg",
+				"imgLandscapeAlt" : "woman in office",
+				"headline" : "Black Long-sleeved Shirt",
+				"excerpt" : "Great during the colder months, this black long-sleeved shirt is simple but a solid choice in a casual setting",
 				"label" : "$75"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-pinstripe.jpg",
-					"alt": "woman in pinstripe blazer"
-				},
-				"headline" : {
-					"short" : "Pinstripe Blazer"
-				},
-				"excerpt" : {
-					"medium" : "This fashionable pinstripe blazer is perfect for a job interview or a happy hour"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-pinstripe.jpg",
+				"imgLandscapeAlt": "woman in pinstripe blazer",
+				"headline" : "Pinstripe Blazer",
+				"excerpt" : "This fashionable pinstripe blazer is perfect for a job interview or a happy hour",
 				"label" : "$180"
 
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-portrait.jpg",
-					"alt": "woman in cream blazer"
-				},
-				"headline" : {
-					"short" : "Cream Blazer"
-				},
-				"excerpt" : {
-					"medium" : "Look professional at your business meetings or with friends on the town in this cream blazer"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-portrait.jpg",
+				"imgLandscapeAlt" : "woman in cream blazer",
+				"headline" : "Cream Blazer",
+				"excerpt" :  "Look professional at your business meetings or with friends on the town in this cream blazer",
 				"label" : "$180"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-ipad.jpg",
-					"alt": "woman in long sweater"
-				},
-				"headline" : {
-					"short" : "Long Button-Down Sweater"
-				},
-				"excerpt" : {
-					"medium" : "Stay warm and look stylish in this button-down peach sweater that extends to your waist"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-ipad.jpg",
+				"imgLandscapeAlt" : "woman in long sweater",
+				"headline" :  "Long Button-Down Sweater",
+				"excerpt" : "Stay warm and look stylish in this button-down peach sweater that extends to your waist",
 				"label" : "$95"
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-blue-denim.jpg",
-					"alt": "woman in kitchen"
-				},
-				"headline" : {
-					"short" : "Navy Blue Dress"
-				},
-				"excerpt" : {
-					"medium" : "This casual navy blue dress is great for whipping up a dinner with friends"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-blue-denim.jpg",
+				"imgLandscapeAlt": "woman in kitchen",
+				"headline" : "Navy Blue Dress",
+				"excerpt" : "This casual navy blue dress is great for whipping up a dinner with friends",
 				"label" : "$190"
 			}
 		]
@@ -152,11 +98,11 @@
             "number" : "1"
         },
         {
-			"url" : "link.pages-category-page-two",
+			"url" : "link.pages-category-page-2",
             "number" : "2"
         },
         {
-			"url" :"link.pages-category-page-two",
+			"url" :"link.pages-category-page-2",
             "number" : "Next"
         }
     ]

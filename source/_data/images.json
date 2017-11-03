@@ -1,32 +1,9 @@
 {
-    "img": {
-        "avatar": {
-            "src": "http://placeimg.com/100/100/people",
-            "alt": "Avatar"
-        },
-        "rectangle": {
-            "src": "http://placeimg.com/400/300/tech",
-            "alt": "Rectangle"
-        },
-        "landscape-4x3": {
-            "src": "http://placeimg.com/400/300/tech",
-            "alt": "4x3 Image"
-        },
-        "landscape-16x9": {
-            "src": "http://placeimg.com/640/360/tech",
-            "alt": "16x9 Image"
-        },
-    },
-    "imgSquare" : {
-        "src": "http://via.placeholder.com/300x300",
-        "alt": "Square"
-    },
-    "imgLandscape" : {
-        "src": "http://via.placeholder.com/1024x576",
-        "alt": "16x9 Image"
-    },
-    "imgHero" : {
-        "src" : "http://via.placeholder.com/4460x2973",
-        "alt" : "Hero Placeholder Image"
-    }
+    "imgLogoSrc" : "../../images/threadahead.svg",
+    "imgSquareSrc": "http://via.placeholder.com/300x300s",
+    "imgSquareAlt": "Square",
+    "imgLandscapeSrc" : "http://via.placeholder.com/1024x576",
+    "imgLandscapeAlt" : "16x9 Image",
+    "imgHeroSrc" : "http://via.placeholder.com/4460x2973",
+    "imgHeroAlt" : "Hero Placeholder Image"
 }

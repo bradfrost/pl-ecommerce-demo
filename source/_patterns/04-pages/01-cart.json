@@ -6,9 +6,7 @@
                 "src": "../../../images/woman-in-yellow-hides-face.jpg",
                 "alt": "woman in sweater"
             },
-            "headline" : {
-                "short" : "Striped Wool Sweater"
-            },
+            "headline" : "Striped Wool Sweater",
             "field" : {
                 "styleModifier" : "c-field--small",
                 "value" : "1",
@@ -20,13 +18,9 @@
             }
         },
         {
-            "imgLandscape" : {
-                "src": "../../../images/woman-in-yellow-hides-face.jpg",
-                "alt": "woman in sweater"
-            },
-            "headline" : {
-                "short" : "Striped Wool Sweater"
-            },
+            "imgLandscapeSrc" :"../../../images/woman-in-yellow-hides-face.jpg",
+            "imgLandscapeAlt": "woman in sweater",
+            "headline" : "Striped Wool Sweater",
             "field" : {
                 "styleModifier" : "c-field--small",
                 "value" : "1",

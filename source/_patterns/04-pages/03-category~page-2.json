@@ -6,42 +6,31 @@
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-blue-top.jpg",
-					"alt": "woman in tank top"
-				},
-				"headline" : {
-					"short" : "Blue Tank Top"
-				},
-				"excerpt" : {
-					"medium" : "Sleek but elegant blue tank top for a night on the town or a more formal dinner"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-blue-top.jpg",
+				"imgLandscapeAlt" : "woman in tank top",
+				"headline" : "Blue Tank Top",
+				"excerpt" : "Sleek but elegant blue tank top for a night on the town or a more formal dinner",
 				"label" : "$50"
 
 			},
 			{
 				"styleModifier" : "",
 				"url" : "link.pages-category-detail",
-				"imgLandscape" : {
-					"src": "../../../images/woman-beach-towel.jpg",
-					"alt": "woman and beach towel"
-				},
-				"headline" : {
-					"short" : "White Cover-Up"
-				},
-				"excerpt" : {
-					"medium" : "Basic, but stylish cover-up for your fun trips to the beach"
-				},
+				"imgLandscapeSrc" : "../../../images/woman-beach-towel.jpg",
+				"imgLandscapeAlt": "woman and beach towel",
+				"headline" : "White Cover-Up",
+				"excerpt" : "Basic, but stylish cover-up for your fun trips to the beach",
 				"label" : "$75"
 			}
 		]
 	},
 	"paginationList" : [
         {
-			"url" : "link.pages-category-page-2",
+			"url" : "link.pages-category",
             "number" : "Prev"
         },
         {
+			"url" : "link.pages-category",
             "number" : "1"
         },
         {
