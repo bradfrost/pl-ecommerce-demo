@@ -7,7 +7,8 @@
  */
  .c-stacked-block {
 	 display: flex;
-     flex-direction: column;
+	 flex-direction: column;
+	 max-width: 1024px;
 	 transition: transform 0.2s ease;
 
 	 &:hover, &:focus {
