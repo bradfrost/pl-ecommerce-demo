@@ -2,11 +2,9 @@
     "pageTitle" : "You Have 2 Items In Your Cart",
     "stripeList" : [
         {
-            "imgLandscape" : {
-                "src": "../../../images/woman-in-yellow-hides-face.jpg",
-                "alt": "woman in sweater"
-            },
-            "headline" : "Striped Wool Sweater",
+            "imgLandscapeSrc": "../../images/man-light-jacket.jpg",
+            "imgLandscapeAlt": "Men's Blue Light Jacket",
+            "headline" : "Men's Light Jacket",
             "field" : {
                 "styleModifier" : "c-field--small",
                 "value" : "1",
@@ -14,11 +12,11 @@
             },
             "cartPrice" : {
                 "label" : "Price",
-                "meta" : "$90"
+                "meta" : "$115"
             }
         },
         {
-            "imgLandscapeSrc" :"../../../images/woman-in-yellow-hides-face.jpg",
+            "imgLandscapeSrc" :"../../images/woman-in-yellow-hides-face.jpg",
             "imgLandscapeAlt": "woman in sweater",
             "headline" : "Striped Wool Sweater",
             "field" : {
@@ -34,7 +32,7 @@
     ],
     "totalPrice" : {
         "label" : "Total",
-        "number" : "$180"
+        "number" : "$205"
     },
     "checkoutButton" : {
         "buttonTag" : false,
