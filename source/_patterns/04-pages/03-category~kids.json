@@ -5,7 +5,7 @@
 		"stackedBlockList": [
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/father-daughter-fashion.jpg",
 				"imgLandscapeAlt": "daughter and father",
 				"headline" : "Kid's Leather Jacket",
@@ -14,7 +14,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/casual-boys-fashion.jpg",
 				"imgLandscapeAlt" : "boy sitting on floor",
 				"headline" :  "Boys Jeans",
@@ -23,7 +23,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/kid-in-dress.jpg",
 				"imgLandscapeAlt" : "girl in cherry dress",
 				"headline" : "Girl's Cherry Dress",
@@ -33,7 +33,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/kid-smiling.jpg",
 				"imgLandscapeAlt" : "girl in cat leggings",
 				"headline" : "Kitty Cat Leggings",
@@ -42,7 +42,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/kid-striped-dress.jpg",
 				"imgLandscapeAlt" : "girl in striped dress",
 				"headline" : "Striped Dress",

@@ -5,7 +5,7 @@
 		"stackedBlockList": [
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-blue-top.jpg",
 				"imgLandscapeAlt" : "woman in tank top",
 				"headline" : "Blue Tank Top",
@@ -15,7 +15,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-beach-towel.jpg",
 				"imgLandscapeAlt": "woman and beach towel",
 				"headline" : "White Cover-Up",

@@ -1,12 +1,10 @@
 {
-	"title" : "Home Page",
-	"bodyClass": "home",
-	"emergency" : false,
 	"hero" : {
-		"imgHeroSrc": "../../images/smiling-man-woman-pug.jpg",
-		"imgHeroAlt": "Forest"
+		"url": "link.pages-detail",
+		"imgHeroSrc": "../../images/woman-in-yellow-hides-face.jpg",
+		"imgHeroAlt": "Woman in yellow striped sweater hiding her face.",
+		"headline" :  "Shop Our Striped Wool Sweater"
 	},
-    "headline" :  "Check out the Winter Collection",
 	"toutSection" : {
 		"styleModifier" : "l-grid--3up",
 		"toutList" : [
@@ -41,7 +39,7 @@
 		"stackedBlockList": [
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-in-yellow-hides-face.jpg",
 				"imgLandscapeAlt" : "red mountains",
 				"headline" : "Women's Striped Sweater",
@@ -50,7 +48,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/casual-mens-outerwear.jpg",
 				"imgLandscapeAlt" : "road with trees",
 				"headline" : "Men's Gray Jacket",
@@ -59,7 +57,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/casual-boys-fashion.jpg",
 				"imgLandscapeAlt" : "mountain and lake",
 				"headline" : "Boys Jeans",

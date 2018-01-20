@@ -5,7 +5,7 @@
 		"stackedBlockList": [
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-watch.jpg",
 				"imgLandscapeAlt": "mountain and lake",
 				"headline" : "Slim-Fit Dotted Shirt",
@@ -15,7 +15,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-flannel.jpg",
 				"imgLandscapeAlt" : "red mountains",
 				"headline" : "Classic Flannel",
@@ -24,7 +24,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-after-haircut.jpg",
 				"imgLandscapeAlt" : "red mountains",
 				"headline" : "Casual Jacket",

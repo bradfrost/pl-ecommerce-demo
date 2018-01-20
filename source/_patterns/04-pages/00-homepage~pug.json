@@ -1,0 +1,8 @@
+{
+    "hero" : {
+		"url": "link.pages-category",
+		"imgHeroSrc": "../../images/smiling-man-woman-pug.jpg",
+		"imgHeroAlt": "Man and woman with pug dog in her lap drinking from mugs.",
+		"headline" :  "Check out the Winter Collection"
+	}
+}

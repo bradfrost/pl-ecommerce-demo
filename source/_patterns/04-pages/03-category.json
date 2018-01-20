@@ -5,7 +5,7 @@
 		"stackedBlockList": [
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-in-yellow-hides-face.jpg",
 				"imgLandscapeAlt" : "woman in sweater",
 				"headline" : "Striped Wool Sweater",
@@ -14,7 +14,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-woods.jpg",
 				"imgLandscapeAlt" : "woman in the woods",
 				"headline" : "Down Jacket",
@@ -24,7 +24,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-pinstripe-dress.jpg",
 				"imgLandscapeAlt" : "woman twisting hair",
 				"headline" :  "Pinstripe Skirt and Tank Top",
@@ -33,7 +33,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-painting.jpg",
 				"imgLandscapeAlt" : "woman painting",
 				"headline" :  "Plaid Flannel Button-Down Shirt",
@@ -42,7 +42,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-black-shirt.jpg",
 				"imgLandscapeAlt" : "woman in office",
 				"headline" : "Black Long-sleeved Shirt",
@@ -51,7 +51,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-pinstripe.jpg",
 				"imgLandscapeAlt": "woman in pinstripe blazer",
 				"headline" : "Pinstripe Blazer",
@@ -61,7 +61,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-portrait.jpg",
 				"imgLandscapeAlt" : "woman in cream blazer",
 				"headline" : "Cream Blazer",
@@ -70,7 +70,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-ipad.jpg",
 				"imgLandscapeAlt" : "woman in long sweater",
 				"headline" :  "Long Button-Down Sweater",
@@ -79,7 +79,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/woman-blue-denim.jpg",
 				"imgLandscapeAlt": "woman in kitchen",
 				"headline" : "Navy Blue Dress",

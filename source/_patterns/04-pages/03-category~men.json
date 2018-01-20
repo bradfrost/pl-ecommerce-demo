@@ -5,7 +5,7 @@
 		"stackedBlockList": [
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/smiling-man-in-formalwear.jpg",
 				"imgLandscapeAlt" : "red mountains",
 				"headline" : "Dark Gray Suit",
@@ -14,7 +14,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/casual-mens-outerwear.jpg",
 				"imgLandscapeAlt" : "road with trees",
 				"headline" : "Gray Jacket",
@@ -23,7 +23,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-light-jacket.jpg",
 				"imgLandscapeAlt" : "road with trees",
 				"headline" : "Blue Two-Toned Rain Jacket",
@@ -32,7 +32,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-brick-wall.jpg",
 				"imgLandscapeAlt" : "mountain and lake",
 				"headline" : "Gray Long-Sleeved Shirt",
@@ -42,7 +42,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-floral-shirt.jpg",
 				"imgLandscapeAlt" : "red mountains",
 				"headline" : "Modern Button-Down Shirt",
@@ -51,7 +51,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-stoop.jpg",
 				"imgLandscapeAlt" : "road with trees",
 				"headline" : "Black Long-Sleeved Shirt",
@@ -60,7 +60,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-looks-at-woman-in-sunset.jpg",
 				"imgLandscapeAlt" : "mountain and lake",
 				"headline" : "White Linen Button-Down Shirt",
@@ -70,7 +70,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-sits-and-laughs.jpg",
 				"imgLandscapeAlt" : "red mountains",
 				"headline" : "Dark Gray Denim Jeans",
@@ -79,7 +79,7 @@
 			},
 			{
 				"styleModifier" : "",
-				"url" : "link.pages-category-detail",
+				"url" : "link.pages-detail",
 				"imgLandscapeSrc" : "../../../images/man-on-iphone.jpg",
 				"imgLandscapeAlt" : "road with trees",
 				"headline" : "Lightweight Gray Long-Sleeved Shirt",
