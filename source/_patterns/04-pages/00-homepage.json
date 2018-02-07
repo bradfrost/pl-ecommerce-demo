@@ -34,7 +34,6 @@
 		}
 	],
 	"latestPosts" : {
-		"styleModifier" : "l-grid l-grid--3up",
 		"sectionTitle": "Featured Items",
 		"stackedBlockList": [
 			{
